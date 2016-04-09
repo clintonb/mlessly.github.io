@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michelle Lessly, M.Ed.</title>
+    <meta property="og:site_name" content="Michelle Lessly, M.Ed."/>
+    <meta property="og:title" content="Michelle Lessly, M.Ed."/>
+    <meta property="og:description" content="Homepage of Michelle Lessly, M.Ed."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://www.michellelessly.com"/>
+    <meta name="og:image" content="http://www.michellelessly.com/img/headshot.jpg"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@michellehlessly"/>
+    <meta name="twitter:title" content="Michelle Lessly, M.Ed."/>
+    <meta name="twitter:description" content="Homepage of Michelle Lessly, M.Ed."/>
+    <meta name="twitter:url" content="http://www.michellelessly.com"/>
+    <meta name="twitter:image" content="http://www.michellelessly.com/img/headshot.jpg"/>
+    <meta name="twitter:image:alt" content="Photo of Michelle Lessly, M.Ed."/>
+
+    <link href="https://fonts.googleapis.com/css?family=Lobster|Josefin+Sans|Open+Sans:400,700" rel="stylesheet"
+          type="text/css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="css/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="content">
+    <div id="slideshow">
+        <div>
+            <img class="circle" src="img/headshot.jpg">
+        </div>
+        <div>
+            <img class="circle" src="img/shades.jpg">
+        </div>
+    </div>
+    <h1>Michelle Lessly</h1>
+    <h2>Higher Education and Policy Expert</h2>
+
+    <p>
+        My ability to empower students is the most rewarding aspect of my 10 years as a student affairs and higher
+        education professional. In seeking opportunities to create highest quality educational experiences for students,
+        staff, and faculty alike, I find I am at my best when working within policy structures and strategic
+        initiatives.
+    </p>
+    <p>
+        I believe data tells a story and uncovers solutions to problems. Using both qualitative and quantitative
+        methods, I use research to bridge the gap between theory and praxis. I examine the application of higher
+        education policy in a digital learning context, specifically focusing on the Family Educational Rights and
+        Privacy Act (FERPA) and massive open online courses (MOOCs).
+    </p>
+    <p>I am passionate about creating public policy through the lens of ethics, equity, accessibility, and social
+        justice. I also strive to make connections between students, policy makers, and education practitioners.
+    </p>
+    <p>
+        Currently, I work at MIT in the Division of Student Life, hold a Masters of Education in Higher Education, and
+        am a Doctoral Candidate in Law and Public Policy (DLP) at Northeastern University (anticipated June 2016).
+    </p>
+
+
+    <div class="links">
+        <a href="https://drive.google.com/file/d/0B5IR7PwGNIJUOGxwc1R1SXdiMVk/view?usp=sharing" class="button"
+           target="_blank">Resume</a>
+
+    <span class="social-icons">
+        <a href="https://www.linkedin.com/in/michelle-lessly-a4442324" target="_blank"><i
+                class="fa fa-linkedin"></i></a>
+        <a href="https://twitter.com/michellehlessly" target="_blank"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.facebook.com/michelle.lessly.9" target="_blank"><i class="fa fa-facebook"></i></a>
+        <a href="https://plus.google.com/118425752492573713006/posts" target="_blank"><i class="fa fa-google-plus"></i></a>
+    </span>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-2.2.3.min.js"
+        integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    var $slideshow = $("#slideshow");
+
+    $slideshow.find('div:gt(0)').hide();
+
+    setInterval(function () {
+        $slideshow.find('div:first').fadeOut(1000).next().fadeIn(1000).end().appendTo('#slideshow');
+    }, 3000);
+</script>
+</body>
+</html>
