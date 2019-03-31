@@ -1,0 +1,15 @@
+---
+header:
+  - url: /about
+    title: About
+    identifier: about
+  - url: /
+    title: Writings
+    identifier: writings
+  - url: /research-and-papers
+    title: Research
+    identifier: research
+  - url: /files/2019/03/Lessly-Blackburn-Resume.pdf
+    title: Resume
+    identifier: resume
+---
