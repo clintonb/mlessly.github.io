@@ -8,3 +8,12 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
+- type: textarea
+  name: body
+  label: body
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
