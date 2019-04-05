@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 'Understanding Accreditation: The Basics'
-image: ''
-categories: []
+image: "/uploads/Checklist.jpg"
+categories:
+- Higher Education
+- Accreditation
 date: 2019-04-04 20:33:33 -0700
 
 ---
