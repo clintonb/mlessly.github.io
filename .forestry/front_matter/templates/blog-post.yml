@@ -2,24 +2,14 @@
 label: Blog post
 hide_body: false
 fields:
-- type: number
-  name: wordpress_id
-  label: wordpress_id
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: author
-  label: author
 - type: text
   name: layout
   label: layout
-- type: text
-  name: guid
-  label: guid
+  default: post
+  hidden: true
 - type: text
   name: permalink
   label: permalink
@@ -29,6 +19,3 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: list
-  name: tags
-  label: tags
