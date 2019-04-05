@@ -1,5 +1,5 @@
 ---
-label: ama
+label: Page
 hide_body: false
 fields:
 - type: text
@@ -9,14 +9,7 @@ fields:
   name: layout
   label: layout
   default: page
-- type: textarea
-  name: body
-  label: body
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
+  hidden: true
 pages:
 - _posts/understanding-accreditation-the-basics.md
 - ask-me-anything.md
