@@ -73,10 +73,10 @@ body: "America’s higher education system is as wide reaching as it is diverse.
   agencies to undergo review every 5 years, in which agencies must demonstrate their
   compliance with the ED’s requirements. NACIQI currently recognizes over 60 accreditors,
   including regional, national and specialized/professional agencies.\n\n**Are there
-  some institutions that are not accredited?**\n\nYes, educational agencies may not
-  seek accreditation for a variety of reasons, namely not wanting to be subject to
-  federal regulation. Some Bible colleges or religiously affiliated institutions want
-  freedom in determining their degree plans, graduation requirements, hiring or admissions
+  some institutions that are not accredited?**\n\nEducational agencies may not seek
+  accreditation for a variety of reasons, namely not wanting to be subject to federal
+  regulation. Some Bible colleges or religiously affiliated institutions want freedom
+  in determining their degree plans, graduation requirements, hiring or admissions
   practices, etc. Other organizations, such as online schools, for-profit universities,
   or non-traditional education platforms like boot camps, have financing structures
   that do not rely on receiving federal funds. For example, a primary component of
