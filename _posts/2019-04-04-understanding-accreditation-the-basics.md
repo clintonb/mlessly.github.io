@@ -5,7 +5,7 @@ image: "/uploads/Checklist.jpg"
 categories:
 - Higher Education
 - Accreditation
-date: 2019-04-04 20:33:33 -0700
+date: 2019-04-05 03:33:33 +0000
 
 ---
 America’s higher education system is as wide reaching as it is diverse. Its ability to cater to the needs of disparate student populations means it is characteristically unique, but also makes it challenging to impose quality controls. Accreditation functions as the primary vetting mechanism for postsecondary institutions, and has done so for centuries in the United States. Over time, accreditation has shifted from serving as an indicator of institutional legitimacy to a principal component of the higher education funding ecosystem.
@@ -36,7 +36,7 @@ Under the authority of the Higher Education Act (1992 reauthorization), the Nati
 
 **Are there some institutions that are not accredited?**
 
-Educational agencies may not seek accreditation for a variety of reasons, namely not wanting to be subject to federal regulation. Some Bible colleges or religiously affiliated institutions want freedom in determining their degree plans, graduation requirements, hiring or admissions practices, etc. Other organizations, such as online schools, for-profit universities, or non-traditional education platforms like boot camps, have financing structures that do not rely on receiving federal funds. For example, a primary component of Lambda School’s business model requires students to payback a portion of their salary post-graduation rather than pay tuition upfront. Seeking accreditation, in this case, does not benefit the organization or its students.
+Educational institutions may opt _not_ seek accreditation for a variety of reasons, namely not wanting to be subject to federal regulation. Some Bible colleges or religiously affiliated institutions want freedom in determining their degree plans, graduation requirements, hiring or admissions practices, etc. Other organizations, such as online schools, for-profit universities, or non-traditional education platforms like boot camps, have financing structures that do not rely on receiving federal funds. For example, a primary component of Lambda School’s business model requires students to payback a portion of their salary post-graduation rather than pay tuition upfront. Seeking accreditation, in this case, does not benefit the organization or its students.
 
 Though rare, a college or university may not be accredited because its accrediting agency lost their NACIQI recognition. In December 2016, Accrediting Council for Independent Colleges and Schools failed its review process, impacting 245 institutions. If these schools want to continue receiving federal student aid, they must seek accreditation from another agency.
 
