@@ -120,7 +120,13 @@ body: "America’s higher education system is as wide reaching as it is diverse.
   inhibits innovation, as some critics argue. Since agencies currently determines
   institutional quality on conventional education models, organizations that do not
   fit within construct (like MOOCs and coding boot camps) are currently unable to
-  seek accreditation."
+  seek accreditation.\n\n**Can accreditation change**?The role, authority and process
+  of accreditation continues to shift to meet the needs of the modern academy. Still,
+  the infrastructure, requirements, and financial model of accreditation is predicated
+  on the traditional university. As legislators, presidential candidates, and universities
+  discuss the future of higher education in an effort to resolve the student debt
+  crisis, it is reassuring to know that many stakeholders are reviewing the function
+  of accreditation and are open to reform."
 date: 2019-04-04 17:10:28 -0700
 
 ---
