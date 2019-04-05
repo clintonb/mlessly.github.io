@@ -60,7 +60,7 @@ body: "America’s higher education system is as wide reaching as it is diverse.
   once accredited in order to ensure quality standards are met continually. The initial
   accreditation application and process can take up to 6 years to complete, depending
   upon the agency.\n\n**Who accredits the accreditors?**\n\nToday, accreditation functions
-  as one-third of what is known as the [regulatory triad](https://pacrao.org/b/general/the-regulatory-triad-and-united-states-higher-education/).
+  as one-third of what is known as the [regulatory triad](https://www.nationalaffairs.com/publications/detail/accountability-for-higher-education).
   State and federal governments make up the other two components of the triad, providing
   oversight to both the accreditation process and the agencies themselves.\n\nUnder
   the authority of the Higher Education Act (1992 reauthorization), the National Advisory
