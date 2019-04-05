@@ -10,9 +10,6 @@ fields:
   label: layout
   default: post
   hidden: true
-- type: text
-  name: permalink
-  label: permalink
 - type: file
   name: image
   label: image
