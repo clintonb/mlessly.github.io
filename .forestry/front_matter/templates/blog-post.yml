@@ -13,9 +13,6 @@ fields:
 - type: file
   name: image
   label: image
-- type: list
-  name: categories
-  label: categories
 - type: textarea
   config:
     wysiwyg: true
@@ -23,5 +20,8 @@ fields:
       format: markdown
   label: Image Caption
   name: image_caption
+- type: list
+  name: categories
+  label: categories
 pages:
 - _posts/2019-04-04-understanding-accreditation-the-basics.md
