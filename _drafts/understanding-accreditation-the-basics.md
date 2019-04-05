@@ -87,7 +87,40 @@ body: "America’s higher education system is as wide reaching as it is diverse.
   recognition. In December 2016, Accrediting Council for Independent Colleges and
   Schools failed its review process, impacting 245 institutions. If these schools
   want to continue receiving federal student aid, they must seek accreditation from
-  another agency."
+  another agency.\n\n**Are there concerns about the accreditation process?**\n\nEven
+  though accreditation is a widely accepted practice within the higher education community,
+  it is not immune from critique. Many suggest the cost of accreditation is problematic.
+  Colleges and universities pay annual membership dues to their accrediting agency.
+  These dues are the primary funding source for accreditors. Member institutions of
+  the New England Association of Schools and Colleges, the organization that accredits
+  Harvard, [paid between $6,500 and $32,300](https://www.educationnext.org/college-accreditation-explained-ednext-guide-how-it-works-whos-responsible/)
+  in dues for 2018. When up for eligibility review, colleges and universities must
+  also pay application fees or other agency costs associated with the review process,
+  not to mention time and labor expenses of its own staff. A 2015 Vanderbilt University
+  and Boston Consulting Group report claims accreditation jointly costs the nation’s
+  postsecondary institutions [$27 billion annually](https://www.insidehighered.com/news/2015/10/19/vanderbilt-study-again-highlights-what-colleges-view-burdensome-federal-regulations).
+  This figure includes expenses related to state, regional, and federal compliance,
+  as well as specialized accreditation requirements and meeting publicly funded research
+  grant regulations.\n\nThere are also concerns regarding conflicts of interest within
+  the accreditation process. The funding structure, as discussed above, incentivizes
+  agencies to renew accreditation applications rather than apply a rigorous review
+  process for fear of losing revenue. Moreover, agencies which usually have minimal
+  staff, heavily rely on volunteers for peer-reviews and site visits. These volunteers
+  come from member institutions of the accrediting agency and often have professional
+  relationships with the leaders of the university under review. At the risk of losing
+  beneficial relationships, or concerns related to their own school’s accreditation
+  peer-review, volunteers are more likely to be generous when assessing their fellow
+  members institutions. Some agencies try to offset this conflict of interest by only
+  permitting retired professionals to serve as volunteers.\n\nStill, the most popular
+  criticism of the accreditation process is it focuses on institutional inputs rather
+  than assessing student outcomes. Agencies [review ](https://www.newamerica.org/education-policy/edcentral/improving-accreditation-i/)“traditional
+  concept(s) of what makes a university” such as student-to-faculty ratios, mission
+  statements, and library services, without considering factors such as graduation
+  rates, student debt burdens, or learning outcomes. This emphasis on inputs also
+  inhibits innovation, as some critics argue. Since agencies currently determines
+  institutional quality on conventional education models, organizations that do not
+  fit within construct (like MOOCs and coding boot camps) are currently unable to
+  seek accreditation."
 date: 2019-04-04 17:10:28 -0700
 
 ---
