@@ -50,4 +50,4 @@ Still, the most popular criticism of the accreditation process is it focuses on 
 
 **Can accreditation change**?
 
-The role, authority and process of accreditation continues to shift to meet the needs of the modern academy. Still, the infrastructure, requirements, and financial model of accreditation is predicated on the traditional university. As legislators, presidential candidates, and universities discuss the future of higher education in an effort to resolve the student debt crisis, it is reassuring to know that many stakeholders are reviewing the function of accreditation and are open to reform.
+The role, authority, and process of accreditation continues to shift to meet the needs of the modern academy. Still, the infrastructure, requirements, and financial model of accreditation is predicated on the traditional university. As legislators, presidential candidates, and universities discuss the future of higher education in an effort to resolve the student debt crisis, it is reassuring to know that many stakeholders are reviewing the function of accreditation and are open to reform.
