@@ -72,7 +72,22 @@ body: "America’s higher education system is as wide reaching as it is diverse.
   between institutions and their state licensing procedures. NACIQI requires accrediting
   agencies to undergo review every 5 years, in which agencies must demonstrate their
   compliance with the ED’s requirements. NACIQI currently recognizes over 60 accreditors,
-  including regional, national and specialized/professional agencies."
+  including regional, national and specialized/professional agencies.\n\n**Are there
+  some institutions that are not accredited?**\n\nYes, educational agencies may not
+  seek accreditation for a variety of reasons, namely not wanting to be subject to
+  federal regulation. Some Bible colleges or religiously affiliated institutions want
+  freedom in determining their degree plans, graduation requirements, hiring or admissions
+  practices, etc. Other organizations, such as online schools, for-profit universities,
+  or non-traditional education platforms like boot camps, have financing structures
+  that do not rely on receiving federal funds. For example, a primary component of
+  Lambda School’s business model requires students to payback a portion of their salary
+  post-graduation rather than pay tuition upfront. Seeking accreditation, in this
+  case, does not benefit the organization or its students.\n\nThough rare, a college
+  or university may not be accredited because its accrediting agency lost their NACIQI
+  recognition. In December 2016, Accrediting Council for Independent Colleges and
+  Schools failed its review process, impacting 245 institutions. If these schools
+  want to continue receiving federal student aid, they must seek accreditation from
+  another agency."
 date: 2019-04-04 17:10:28 -0700
 
 ---
