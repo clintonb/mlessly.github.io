@@ -8,10 +8,11 @@ disqus: michelle-lessly-m-ed-d-lp
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:year/:month/:day/:title:output_ext
 show_excerpts: true
 
-permalink: /:year/:month/:day/:title:output_ext
+author:
+  name: Michelle Lessly Blackburn, M.Ed., D.LP.
 
 include:
   - _redirects
