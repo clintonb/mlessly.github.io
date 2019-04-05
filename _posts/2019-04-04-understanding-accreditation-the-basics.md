@@ -6,6 +6,7 @@ categories:
 - Higher Education
 - Accreditation
 date: 2019-04-05 03:33:33 +0000
+image_caption: 'Credit: [Vormingplus Gent-Eeklo](https://www.flickr.com/photos/44514681@N06)'
 
 ---
 America’s higher education system is as wide reaching as it is diverse. Its ability to cater to the needs of disparate student populations means it is characteristically unique, but also makes it challenging to impose quality controls. Accreditation functions as the primary vetting mechanism for postsecondary institutions, and has done so for centuries in the United States. Over time, accreditation has shifted from serving as an indicator of institutional legitimacy to a principal component of the higher education funding ecosystem.
