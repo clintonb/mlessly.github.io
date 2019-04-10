@@ -15,3 +15,5 @@ In a December 2018 [announcement](https://www.insidehighered.com/news/2018/12/03
 This announcement is well timed considering Congress’ commitment to reauthorize the Higher Education Act, the law that gives [accreditation ](https://michellelessly.com/2019/04/05/understanding-accreditation-the-basics)its status in American postsecondary education, by the end of this year. The political climate is ripe for reform, and regardless of DeVos’ intentions, students may stand to benefit from an emphasis on innovation and a critical review of how quality is measured in colleges and universities.
 
 But, can policy makers _actually_ innovate accreditation? If so, what can students, educators, institutions, and accrediting agencies expect to change?
+
+**What could accreditation innovation look like for traditional colleges and universities?**
