@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Accreditation: Innovation'
 image: "/uploads/Innovation.jpg"
-image_caption: Photo by [Juhan Sonin](https://www.flickr.com/photos/juhansonin/)
+image_caption: 'Credit: [Juhan Sonin](https://www.flickr.com/photos/juhansonin/)'
 categories:
 - Coding Boot Camps
 - Accreditation
