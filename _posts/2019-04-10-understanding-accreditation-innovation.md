@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Understanding Accreditation: Innovation'
-image: "/uploads/Innovation.jpg"
-image_caption: 'Credit: [Juhan Sonin](https://www.flickr.com/photos/juhansonin/)'
+image: "/uploads/access-airport-backpack-842921.jpg"
+image_caption: 'Credit: [bruce mars](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)'
 categories:
 - Coding Boot Camps
 - Accreditation
