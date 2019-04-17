@@ -21,7 +21,7 @@ FSA’s guidance, on its face, is not sufficient to address the concern that stu
 
 To be fair, schools cannot anticipate how much exactly which residence hall as student will be assigned or how many hours they will take, but failing to disclose these caveats is simply negligent.
 
-Additionally, the memo fails to recommend standard language use beyond using the terms “financial aid offer” or “college finance” rather than an “award,” a suggestion I think makes an important distinction between the gift of money and the financing of purchase.
+Additionally, the memo fails to recommend standard language use beyond using the terms “financial aid offer” or “college finance” rather than an “award," a suggestion I think makes an important distinction between the gift of money and the financing of purchase.
 
 That said, adopting clear, universal terminology regarding the types of funding offered will help reduce confusion when interpreting aid packages. The New America/uAspire study notes schools use [136 unique terms](https://www.vox.com/2018/6/5/17425572/college-financial-aid-application-confusing-misleading) or phrases for federal unsubsidized loans. 24 of the institutions failed to use the word “loan” in their award letters. How can students be expected to make informed decisions about their education and subsequent financing if schools are acting in bad faith?
 
