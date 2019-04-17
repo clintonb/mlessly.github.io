@@ -24,5 +24,6 @@ fields:
   name: categories
   label: categories
 pages:
+- _posts/a-small-victory-in-the-war-against-student-aid.md
 - _posts/2019-04-10-understanding-accreditation-innovation.md
 - _posts/2019-04-04-understanding-accreditation-the-basics.md
