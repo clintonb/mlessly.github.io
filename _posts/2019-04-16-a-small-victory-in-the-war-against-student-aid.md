@@ -2,7 +2,7 @@
 layout: post
 title: The ED’s Newest Recommendations Are a Step in the Right Direction in Solving
   the Student Debt Crisis
-image: "/uploads/I agree.jpg"
+image: "/uploads/Iagree.jpg"
 image_caption: 'Credit: [Pixabay](https://www.pexels.com/@pixabay)'
 categories:
 - Higher Education
