@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Next for the the Next Administration
+title: What's Next for the the Next Administration?
 image: "/uploads/joe-biden.jpg"
 image_caption: 'Photo: Gage Skidmore'
 categories:
@@ -13,11 +13,11 @@ categories:
 - Biden Administration
 
 ---
-After four years of controversial actions taken by a controversial Secretary of Education, the Biden Administration has its work cut out for it when it comes to higher education. In the last 3 months alone, the DeVos Administration rescinded [Clery guidance](https://ifap.ed.gov/electronic-announcements/100920RescissionReplace2016HandbookForCampusSafetySecurityReporting) and implemented [sweeping regulatory changes](https://www.ed.gov/news/press-releases/us-department-education-launches-new-title-ix-resources-students-institutions-historic-new-rule-takes-effect) to Title IX. Moreover, DACA and international students live in a state of confusion as to whether they will be allowed to return to their college campuses. Institutions’ budgets are in shambles due to lack of auxiliary funds and cuts in state spending as related to the coronavirus.
+After four years of controversial actions taken by a controversial Secretary of Education, the Biden Administration has its work cut out for it when it comes to higher education. In the last 3 months alone, the DeVos Administration rescinded [Clery guidance](https://ifap.ed.gov/electronic-announcements/100920RescissionReplace2016HandbookForCampusSafetySecurityReporting) and implemented [sweeping regulatory changes](https://www.ed.gov/news/press-releases/us-department-education-launches-new-title-ix-resources-students-institutions-historic-new-rule-takes-effect) to Title IX. DACA and international students live in a state of confusion as to whether they will be allowed to return to their college campuses. Institutions’ budgets are in shambles due to lack of auxiliary funds and cuts in state spending as related to the coronavirus.
 
 _How then should the next Secretary of Education prioritize their postsecondary education policy agenda?_
 
-Obviously, the most urgent matter at hand is equipping colleges and universities to combat COVID-19 on their campuses. [Biden’s Coronavirus Taskforce](https://www.washingtonpost.com/health/2020/11/09/biden-coronavirus-task-force/) must allocate resources to help cash-strapped institutions to keep their campuses safe through testing, PPE, and quarantining. Moreover, now that campuses are grappling with the second virus-related crisis in just over a decade (H1N1-2009), the Department of Education should also partner with the taskforce to issue guidance on how college campuses should be preparing to respond to such emergency situations.
+Obviously, the most urgent matter at hand is equipping colleges and universities to combat COVID-19 on their campuses. [Biden’s Coronavirus Taskforce](https://www.washingtonpost.com/health/2020/11/09/biden-coronavirus-task-force/) must allocate resources to help cash-strapped institutions to keep their campuses safe through testing, PPE, and quarantining. Furthermore, now that campuses are grappling with the second virus-related crisis in just over a decade (H1N1-2009), the Department of Education should also partner with the taskforce to issue guidance on how college campuses should be preparing to respond to such emergency situations.
 
 Still, other matters warrant attention.
 
