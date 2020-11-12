@@ -20,7 +20,7 @@ With [44.4 million Americans](https://studentloanhero.com/student-loan-debt-stat
 
 **_Privacy_**
 
-**_Online Learning Accreditation Standards_**
+The urgent pivot to online learning and Zoom classrooms by colleges and universities this past spring highlights the need to reevaluate privacy concerns in the education space. The Family Educational Rights and Privacy Act, or FERPA, protects students’ educational records but fails to classify information beyond grades, student conduct information, and personally identifiable information as a record FERPA is not inclusive of technology beyond protecting email addresses and the contents of an electronic grade book. The incoming secretary must prioritize expanding educational privacy laws to include data/metadata captured in an online learning space, including images captured, or the ability to refuse to be captured, through video conferencing services.
 
 **_Title IX_**
 
