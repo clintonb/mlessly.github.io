@@ -31,7 +31,7 @@ The urgent pivot to online learning and Zoom classrooms by colleges and universi
 
 **_Online Learning_**
 
-Despite the widespread adoption of LMSs across the postsecondary education for close to two decades now, online learning as a primary method of delivery is still considered less reputable. Until now. Over the past few months faculty and administrators have simultaneously learned both the utility of online learning, and their severe lack of understanding of how to harness that utility. The Department of Education should invest time and resources by initiating a blue-ribbon committee to determine the efficacy of online learning as a dynamic education delivery method and partner with [CAS](https://www.cas.edu/) to determine industry best practices.
+Despite the widespread adoption of LMSs across the postsecondary education for close to two decades now, online learning as a primary method of delivery is still considered less reputable. Until now. Over the past few months faculty and administrators have simultaneously learned about both the utility of online learning, and their severe lack of understanding of how to harness that utility. The Department of Education must invest time and resources by initiating a blue-ribbon committee to determine the efficacy of online learning as a dynamic education delivery method and partner with [CAS](https://www.cas.edu/) to determine industry best practices. 
 
 **_Title IX_**
 
