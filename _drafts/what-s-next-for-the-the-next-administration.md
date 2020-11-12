@@ -1,9 +1,16 @@
 ---
 layout: post
 title: What's Next for the the Next Administration
-image: ''
-image_caption: ''
-categories: []
+image: "/uploads/joe-biden.jpg"
+image_caption: 'Photo: Gage Skidmore'
+categories:
+- COVID-19
+- Online Learning
+- FERPA
+- Student Debt
+- Higher Education
+- Education
+- Biden Administration
 
 ---
 After four years of controversial decisions and guidance promulgated by a controversial Secretary of Education, the Biden Administration has its work cut out for it in the realm of higher education. In the last 3 months alone, the DeVos Administration rescinded [Clery guidance](https://ifap.ed.gov/electronic-announcements/100920RescissionReplace2016HandbookForCampusSafetySecurityReporting) and implemented [sweeping regulatory changes](https://www.ed.gov/news/press-releases/us-department-education-launches-new-title-ix-resources-students-institutions-historic-new-rule-takes-effect) to Title IX. Moreover, DACA and international students live in a state of confusion as to whether they will be accepted on their college campus. Institutions’ budgets are in shambles due to lack of auxiliary funds and cuts in state spending as related to the coronavirus.
