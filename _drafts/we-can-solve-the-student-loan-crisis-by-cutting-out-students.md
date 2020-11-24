@@ -1,9 +1,16 @@
 ---
 layout: post
 title: 'We can Solve the Student Loan Crisis by Cutting out Students '
-image: ''
-image_caption: ''
-categories: []
+image: "/uploads/collegedegrees360.jpg"
+image_caption: 'Photo: [CollegeDegrees360](https://www.flickr.com/photos/83633410@N07/
+  "CollegeDegrees360")'
+categories:
+- Higher Education
+- Department of Education
+- Pell Grant
+- Tuition
+- Biden
+- Student Debt
 
 ---
 The Biden Administration’s [proposal](https://www.nytimes.com/2020/11/18/upshot/student-debt-forgiveness-biden.html) to forgive student loan debt  alleviates some of the burden for borrowers, but it leaves future students without a way to keep from getting into debt in the first place.
