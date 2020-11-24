@@ -19,7 +19,7 @@ The idea of [free college](https://blogs.edweek.org/edweek/high_school_and_beyon
 
 How then can we make college more affordable for all students while still accounting for the total COA? By taking students out of the lending process.
 
-When a student takes out a federal student loan, the money is sent directly to their institution (both public and private) at the beginning of the term, and is often spent as soon as it is received. From an institutional perspective, the students are simply a means to an end to receive a consistent cash flow of federal funds. This begs the question: why is a student loan even necessary in the first place?
+When a student takes out a federal student loan, the money is sent directly to their institution (both public and private) at the beginning of the term, and is often spent as soon as it is received. From an institutional budget perspective, the student is simply a means to an end to receive a consistent cash flow of federal funds. This begs the question: why is a student loan even necessary in the first place?
 
 The ED spends [$120 billion](https://studentaid.gov/about) every year in federal student aid, known as Title IV funds. [$30 billion](https://www.statista.com/statistics/235374/expenditure-on-federal-pell-grants-in-the-us/), or one-quarter, of these funds are awarded in the form of Pell Grants, the ED’s most popular needs-based tool to reduce the cost of college. What if these funds were given directly to colleges and universities, on a per student basis, as a federal investment in higher education rather than as a component of a student aid program?
 
