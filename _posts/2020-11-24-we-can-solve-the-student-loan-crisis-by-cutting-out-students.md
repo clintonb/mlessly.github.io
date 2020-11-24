@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'We can Solve the Student Loan Crisis by Cutting out Students '
+title: 'We Can Solve the Student Loan Crisis by Cutting out Students '
 image: "/uploads/collegedegrees360.jpg"
 image_caption: 'Photo: [CollegeDegrees360](https://www.flickr.com/photos/83633410@N07/
   "CollegeDegrees360")'
