@@ -6,7 +6,7 @@ image_caption: ''
 categories: []
 
 ---
-The Biden Administration’s [proposal](https://www.nytimes.com/2020/11/18/upshot/student-debt-forgiveness-biden.html) to forgive student loan debt may alleviate some of the burden for borrowers, but it still leaves future students without a way to keep from getting into debt in the first place.
+The Biden Administration’s [proposal](https://www.nytimes.com/2020/11/18/upshot/student-debt-forgiveness-biden.html) to forgive student loan debt  alleviates some of the burden for borrowers, but it leaves future students without a way to keep from getting into debt in the first place.
 
 The idea of [free college](https://blogs.edweek.org/edweek/high_school_and_beyond/2019/05/4_things_you_need_to_know_about_free_college_proposals.html) is an appealing option for those who want to alleviate student debt all together. However, these proposals are limited to students who attended public colleges and universities, leaving the [26% of students who attend private universities](https://educationdata.org/college-enrollment-statistics) without debt relief. Additionally, these plans often only account for the cost of tuition, rather than the costs of attendance (COA), which includes fees, room and board, textbook, supplies, transportation, and living expenses. Depending upon where a student lives, these costs can add up to be more than their tuition bill.
 
