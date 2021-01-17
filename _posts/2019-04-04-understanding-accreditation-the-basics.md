@@ -5,7 +5,7 @@ image: "/uploads/Checklist.jpg"
 categories:
 - Higher Education
 - Accreditation
-date: 2019-04-05 03:33:33 +0000
+date: '2019-04-05T03:33:33.000+00:00'
 image_caption: 'Credit: [Vormingplus Gent-Eeklo](https://www.flickr.com/photos/44514681@N06)'
 
 ---
@@ -37,7 +37,7 @@ Under the authority of the Higher Education Act (1992 reauthorization), the Nati
 
 **Are there some institutions that are not accredited?**
 
-Educational institutions may opt _not_ seek accreditation for a variety of reasons, namely not wanting to be subject to federal regulation. Some Bible colleges or religiously affiliated institutions want freedom in determining their degree plans, graduation requirements, hiring or admissions practices, etc. Other organizations, such as online schools, for-profit universities, or non-traditional education platforms like boot camps, have financing structures that do not rely on receiving federal funds. For example, a primary component of Lambda School’s business model requires students to payback a portion of their salary post-graduation rather than pay tuition upfront. Seeking accreditation, in this case, does not benefit the organization or its students.
+Educational institutions may opt to _not_ seek accreditation for a variety of reasons, namely not wanting to be subject to federal regulation. Some Bible colleges or religiously affiliated institutions want freedom in determining their degree plans, graduation requirements, hiring or admissions practices, etc. Other organizations, such as online schools, for-profit universities, or non-traditional education platforms like boot camps, have financing structures that do not rely on receiving federal funds. For example, a primary component of Lambda School’s business model requires students to payback a portion of their salary post-graduation rather than pay tuition upfront. Seeking accreditation, in this case, does not benefit the organization or its students.
 
 Though rare, a college or university may not be accredited because its accrediting agency lost their NACIQI recognition. In December 2016, Accrediting Council for Independent Colleges and Schools failed its review process, impacting 245 institutions. If these schools want to continue receiving federal student aid, they must seek accreditation from another agency.
 
