@@ -1,18 +1,18 @@
 ---
 header:
-- url: "/files/2019/03/Lessly-Blackburn-Resume.pdf"
+- url: "/uploads/michelle-lessly-blackburn-resume-december-2021.pdf"
   title: Resume
   identifier: resume
   weight: 1
-- url: "/research-and-papers"
-  title: Research
-  identifier: research
-  weight: 2
-- url: "/"
-  title: Articles
-  identifier: writings
-  weight: 3
 - url: "/about"
   title: About
   identifier: about
   weight: 4
+- url: "/"
+  title: Articles
+  identifier: writings
+  weight: 3
+- url: "/research-and-papers"
+  title: Research
+  identifier: research
+  weight: 2
